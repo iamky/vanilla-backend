@@ -1,2 +1,2 @@
 # vanilla-backend
-A basic structure for CRUD API using express and mongo.
+A basic CRUD API using Express.js and MongoDB.
